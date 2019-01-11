@@ -15,8 +15,13 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "ringallegro",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
+			:name = "ringopengl21",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
